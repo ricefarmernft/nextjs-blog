@@ -32,10 +32,7 @@ export default function Home({ allPostsData }) {
         <p>
           Hello, I'm Ceejay. I'm a software engineer focused on crypto and AI.
         </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+
         {/* <Link href="/posts/first-post"> First Post</Link> */}
       </section>
       {/* Section 2 */}
